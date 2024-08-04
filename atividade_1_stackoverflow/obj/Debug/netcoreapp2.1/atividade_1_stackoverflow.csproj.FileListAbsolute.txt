@@ -1,0 +1,13 @@
+D:\Academico\Disciplinas - UFS\Testes de Software\atividade_1_stackoverflow\obj\Debug\netcoreapp2.1\atividade_1_stackoverflow.csproj.AssemblyReference.cache
+D:\Academico\Disciplinas - UFS\Testes de Software\atividade_1_stackoverflow\obj\Debug\netcoreapp2.1\atividade_1_stackoverflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academico\Disciplinas - UFS\Testes de Software\atividade_1_stackoverflow\obj\Debug\netcoreapp2.1\atividade_1_stackoverflow.AssemblyInfoInputs.cache
+D:\Academico\Disciplinas - UFS\Testes de Software\atividade_1_stackoverflow\obj\Debug\netcoreapp2.1\atividade_1_stackoverflow.AssemblyInfo.cs
+D:\Academico\Disciplinas - UFS\Testes de Software\atividade_1_stackoverflow\obj\Debug\netcoreapp2.1\atividade_1_stackoverflow.csproj.CoreCompileInputs.cache
+D:\Academico\Disciplinas - UFS\Testes de Software\atividade_1_stackoverflow\bin\Debug\netcoreapp2.1\atividade_1_stackoverflow.deps.json
+D:\Academico\Disciplinas - UFS\Testes de Software\atividade_1_stackoverflow\bin\Debug\netcoreapp2.1\atividade_1_stackoverflow.runtimeconfig.json
+D:\Academico\Disciplinas - UFS\Testes de Software\atividade_1_stackoverflow\bin\Debug\netcoreapp2.1\atividade_1_stackoverflow.runtimeconfig.dev.json
+D:\Academico\Disciplinas - UFS\Testes de Software\atividade_1_stackoverflow\bin\Debug\netcoreapp2.1\atividade_1_stackoverflow.dll
+D:\Academico\Disciplinas - UFS\Testes de Software\atividade_1_stackoverflow\bin\Debug\netcoreapp2.1\atividade_1_stackoverflow.pdb
+D:\Academico\Disciplinas - UFS\Testes de Software\atividade_1_stackoverflow\obj\Debug\netcoreapp2.1\atividade_1_stackoverflow.dll
+D:\Academico\Disciplinas - UFS\Testes de Software\atividade_1_stackoverflow\obj\Debug\netcoreapp2.1\atividade_1_stackoverflow.pdb
+D:\Academico\Disciplinas - UFS\Testes de Software\atividade_1_stackoverflow\obj\Debug\netcoreapp2.1\atividade_1_stackoverflow.genruntimeconfig.cache
